@@ -3,11 +3,11 @@ const puppeteer = require("puppeteer");
 async function generatePDF() {
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
-  await page.goto(`file://${process.cwd()}/resume.html`, {
+  await page.goto(`file://${process.cwd()}/output/resume.html`, {
     waitUntil: "networkidle0",
   });
   await page.pdf({
-    path: "resume.pdf",
+    path: "output/resume.pdf",
     format: "A4",
     printBackground: true,
     preferCSSPageSize: true,
