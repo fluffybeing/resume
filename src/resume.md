@@ -3,7 +3,7 @@ title: Rahul Ranjan
 ---
 
 <div style="text-align: center">
-[🌐Web ](https://rahul.bio) [📨rahul.rrixe@gmail.com](mailto:rahul.rrixe@gmail.com) [📞+46737651024](tel:+46737113) [📍Stockholm](https://https://sv.wikipedia.org/wiki/Stockholm)
+[🌐 Website](https://rahul.bio) | [📨 Email](mailto:rahul.rrixe@gmail.com) | [📞 Phone](tel:+46737651024) | [📍 Location](https://sv.wikipedia.org/wiki/Stockholm)
 </div>
 
 Software Engineer with 9 years of experience in designing, architecting, and developing scalable mobile applications solutions tailored to business needs.
@@ -15,52 +15,51 @@ Software Engineer with 9 years of experience in designing, architecting, and dev
 **[Teledyne FLIR](https://www.flir.eu)**, Stockholm
 : Jun 2023 — Current
 
-- Abstracted several commonly used business logic i.e. Analytics, Payment into modules which are re-used in several apps.
-- Added a completely new stack for camera connection using Bluetooth leading better user experience.
+- Abstracted commonly used business logic, such as Analytics and Payment, into reusable modules across multiple applications.
+- Developed a new Bluetooth stack for camera connectivity, significantly enhancing user experience.
 
 #### Senior Software Engineer
 
 **[Spotify](https://spotify.com)**, Stockhom
 : Aug 2020 — May 2023
 
-- Implemented critical components in experimentation SDK to support the customizable configurations utilized
-across Spotify for rolling out user-facing features.
-- Completed the migration of Remote Configuration SDK to Swift from Objective-C.
-- Built several home UI components i.e. playlists, made for you etc which were rendered using backend service.
+- Implemented critical components in the experimentation SDK to support customizable configurations for user-facing features.
+- Successfully migrated the Remote Configuration SDK from Objective-C to Swift.
+- Designed and built several home UI components, including playlists and personalized recommendations, rendered via backend services.
 
 #### Senior Software Engineer
 
 **[Grab](https://grab.com)**, Singapore
 : Aug 2017 — July 2020
 
-- Standardized mobile architecture (RIB, Plugin) which helped the business in the transformation to a super app offering several business verticals into one app.
-- Pioneered critical projects like Dogfood testing, enterprise etc offering from design to implementation and deployment.
-- Upgraded the CI/CD pipeline to reduced the release train cycle to 1 week from 5 weeks.
+- Standardized mobile architecture (RIB, Plugin), facilitating the transformation into a super app that integrates multiple business verticals.
+- Led critical projects, including Dogfood testing and enterprise solutions, from design through implementation and deployment.
+- Enhanced the CI/CD pipeline, reducing the release cycle from 5 weeks to just 1 week.
 
 #### Course Manager
 
 **[Udacity](https://udacity.com)**, San Francisco
 : Nov 2015 — Jun 2017
 
-- Handled responsibilities ranging from content creation to video chats with students to writing code for in-house tools which lead to an increase of 20% retention rate of Full Stack Nanodegree.
-- Remodeled the iOS in-app chat feature for mentor and student engagement.
+- Managed a range of responsibilities, from content creation to student engagement through video chats and in-house tool development, resulting in a 20% increase in retention rates for the Full Stack Nanodegree.
+- Redesigned the iOS in-app chat feature to improve mentor-student interactions.
 
 #### Software Engineer
 
 **[The Walt Disney Compnay](https://thewaltdisneycompany.com)**, Mumbai
 : Nov 2014 — Oct 2015
 
-- Implemented the first version of REST APIs backend and the iOS app for the magazine app.
-- Built a web crawler with rule-based articles scrapper and then used the Bayesian Probabilistic model to sanitize the content.
+- Developed the initial version of REST APIs for the backend and the iOS app for the magazine.
+- Created a web crawler with a rule-based article scraper, utilizing a Bayesian Probabilistic model to sanitize content.
 
-## Open Source
+## Open Source Contributions
 
-- [Swift Programming language](https://github.com/swiftlang/swift/pulls?q=mentions%3Afluffybeing+is%3Aclosed+): I contributed to the source code in the past.
-- [SEC-Edgar](https://github.com/sec-edgar/sec-edgar): SEC Filings downloader.
-- [Newsler](https://github.com/fluffybeing/newsler): Automated web crawler.
+- [Swift Programming Language](https://github.com/swiftlang/swift/pulls?q=mentions%3Afluffybeing+is%3Aclosed+): Contributed to the source code in the past.
+- [SEC-Edgar](https://github.com/sec-edgar/sec-edgar): Developed an SEC filings downloader.
+- [Newsler](https://github.com/fluffybeing/newsler): Created an automated web crawler.
 
 #### [Google Summer of Code](https://summerofcode.withgoogle.com/)
-  - [Fresque](https://github.com/fedora-infra/fresque): Built the first iteration of the code review server on top of git.
+  - [Fresque](https://github.com/fedora-infra/fresque): Developed the first iteration of a code review server based on Git.
   - [Libcloud CLI](https://github.com/npsolve/libcloud-cli): Programmed the initial draft of the CLI for Apache Libcloud.
 
 ## Skills
