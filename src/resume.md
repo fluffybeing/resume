@@ -10,13 +10,14 @@ Software Engineer with 9 years of experience in designing, architecting, and dev
 
 ## Experience
 
-#### Senior Software Engineer
+#### Tech Lead
 
 **[Teledyne FLIR](https://www.flir.eu)**, Stockholm
 : Jun 2023 — Current
 
 - Abstracted commonly used business logic, such as Analytics and Payment, into reusable modules across multiple applications.
 - Developed a new Bluetooth stack for camera connectivity, significantly enhancing user experience.
+- Managed team of developers and designers to successfully deliver and maintain 4 high-impact mobile apps.
 
 #### Senior Software Engineer
 
