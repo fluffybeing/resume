@@ -12,6 +12,8 @@ npm install
 ### Generate
 
 ```bash
+mkdir -p output 
+touch output/resume.html
 bash generate.sh
 
 ```
