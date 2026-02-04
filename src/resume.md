@@ -6,7 +6,7 @@ title: Rahul Ranjan
 [🌐 Website](https://rahul.bio) | [📨 Email](mailto:rahul.rrixe@gmail.com) | [📞 +46737651024](tel:+46737651024) | [📍 Stockholm](https://sv.wikipedia.org/wiki/Stockholm)
 </div>
 
-Software Engineer with 9 years of experience in designing, architecting, and developing scalable mobile applications solutions tailored to business needs.
+Software Engineer with 10 years of experience in designing, architecting, and developing scalable mobile applications solutions tailored to business needs along with creating high impact teams.
 
 ## Experience
 
