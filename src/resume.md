@@ -53,21 +53,25 @@ Software engineer with 10 years shipping consumer apps to hundreds of millions o
 - Developed the initial REST APIs and the companion iOS app for the magazine.
 - Built a web crawler with a rule-based article scraper using a Bayesian probabilistic model to sanitize content.
 
+<div style="break-before: page; page-break-before: always;"></div>
+
 ## Skills
 
 - **Languages:** `Swift` `Objective-C` `Python` `C`
-- **iOS / Apple Platforms:** `SwiftUI` `UIKit` `Combine` `Swift Concurrency` `Core Data` `CoreBluetooth` `XCTest` `Swift Testing` `Instruments`
+- **iOS / Apple Platforms:** `SwiftUI` `UIKit` `Combine` `Swift Concurrency` `XCTest` `Swift Testing` `Instruments`
 - **Architecture:** `MVVM` `RIBs` `Plugin / modular monorepos` `SDK design` `Backend-driven UI`
 - **Tooling:** `Swift Package Manager` `Tuist` `Fastlane` `Xcode Cloud` `Bitrise` `Git` `AWS`
 - **Leadership:** Technical strategy & RFCs, cross-team mentoring, hiring & interviewing
 
 ## Open Source
 
-- [Swift Programming Language](https://github.com/swiftlang/swift/pulls?q=mentions%3Afluffybeing+is%3Aclosed+) — contributed to the compiler / source.
-- [SEC-Edgar](https://github.com/sec-edgar/sec-edgar) — SEC filings downloader.
+- [Swift Programming Language](https://github.com/swiftlang/swift/pulls?q=mentions%3Afluffybeing+is%3Aclosed+): contributed to the compiler / source.
+- [SEC-Edgar](https://github.com/sec-edgar/sec-edgar): SEC filings downloader.
 - [Google Summer of Code](https://summerofcode.withgoogle.com/): [Fresque](https://github.com/fedora-infra/fresque) (Git-based code review server) and [Libcloud CLI](https://github.com/npsolve/libcloud-cli).
 
 ## Education
 
-**B.S. in Computer Science**, [Indian Institute of Information Technology, Allahabad](https://www.iiita.ac.in/)
+**B.S. in Computer Science**
 : Jun 2011 — Jun 2015
+
+[Indian Institute of Information Technology, Allahabad](https://www.iiita.ac.in/)
