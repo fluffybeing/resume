@@ -4,7 +4,9 @@ const puppeteer = require("puppeteer");
 async function generatePDF() {
   const htmlFile = process.argv[2] || "resume.html";
   const pdfFile = process.argv[3] || "resume.pdf";
-  const browser = await puppeteer.launch();
+  const browser = await puppeteer.launch({
+    args: ["--no-sandbox", "--disable-setuid-sandbox"],
+  });
   const page = await browser.newPage();
   await page.goto(`file://${path.join(process.cwd(), "output", htmlFile)}`, {
     waitUntil: "networkidle0",
