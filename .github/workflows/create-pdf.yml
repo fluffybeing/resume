@@ -13,23 +13,17 @@ jobs:
       - name: Check out repository code
         uses: actions/checkout@v4
 
-      - name: "Create a folder called output"
+      - name: Install dependencies
         run: |
-          mkdir output
+          sudo apt-get update
+          sudo apt-get install -y pandoc
+          npm ci
 
-      - name: "Install pandoc"
-        run: |
-          wget https://github.com/jgm/pandoc/releases/download/3.0.1/pandoc-3.0.1-1-amd64.deb
-          sudo apt install pandoc
-          sudo apt install nodejs
-          sudo apt install npm
-          npm install
-
-      - name: "Run the script"
+      - name: Generate PDF
         run: |
           bash generate.sh
 
-      - uses: actions/upload-artifact@master
+      - uses: actions/upload-artifact@v4
         with:
-          name: ${{ github.actor }}'s Resume
-          path: output
+          name: rahul_resume
+          path: output/rahul_resume.pdf
