@@ -3,7 +3,7 @@ title: Rahul Ranjan
 ---
 
 <div style="text-align: center">
-[🌐 Website](https://rrahul.cc) | [📨 Email](mailto:rahul.rrixe@gmail.com) | [📞 +46737651024](tel:+46737651024) | [📍 Stockholm](https://sv.wikipedia.org/wiki/Stockholm)
+[🌐 https://rrahul.cc](https://rrahul.cc) | [📨 rahul.rrixe@gmail.com](mailto:rahul.rrixe@gmail.com) | [📞 +46-737651024](tel:+46737651024) | [📍 Stockholm](https://sv.wikipedia.org/wiki/Stockholm)
 </div>
 
 Software engineer with 10 years shipping consumer apps to hundreds of millions of users; specializes in mobile platform, SDK design, and architecture decisions that scale across teams.
